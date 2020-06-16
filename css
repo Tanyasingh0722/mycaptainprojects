@@ -1,0 +1,45 @@
+header{
+	background:yellow;
+	padding: 20px;
+}
+ul{ 
+	margin-left:20px;
+	margin-right: 20px;
+	list-style: none;
+}
+li {
+	font-size: 20px;
+	font-style: bold;
+	display:inline;
+	margin: 150px;
+}
+h1{
+	font-size:70px;
+}
+h6{
+	font-size: 30px;
+}
+#head{
+	font-size: 45px;
+	text-align: center;
+}
+#Category{
+	display: inline;
+	margin bottom: 20px;
+	padding: 3%;
+	background: gold;
+	margin: 3px;
+}
+#sale{
+	text-align: center;
+	padding-top:30px;
+	font-size: 45px;
+}
+#discount{
+	margin: 15px;
+	background: khaki;
+}
+footer{
+	background: yellow;
+	text-align: center;
+}
